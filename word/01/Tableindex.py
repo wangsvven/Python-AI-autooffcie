@@ -1,3 +1,4 @@
+### Word 表格结构查询脚本
 # 从 python-docx 库中导入 Document 类，用于操作 .docx 格式的 Word 文档
 from docx import Document
 
