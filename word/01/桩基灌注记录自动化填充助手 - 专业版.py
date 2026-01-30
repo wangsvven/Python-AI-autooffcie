@@ -14,10 +14,10 @@ import os  # 用于处理文件路径和文件夹
 
 # 1. 文件夹路径：请把空白 Word 模板放在这个路径下
 # 注意：路径最后的名称必须和电脑上的文件夹名一致
-INPUT_WORD_FOLDER = '/Users/mac/Library/CloudStorage/OneDrive-个人/1.项目/攀枝花米易撒莲丙谷光伏发电项目（35kV 集电线路）/6.过程资料/7.相关数据/表D.0.4 灌注桩基础检查记录表'
+INPUT_WORD_FOLDER = 'word 文件夹'
 
 # 2. Excel 数据库：你的数据来源表
-EXCEL_DATABASE = '/Users/mac/Desktop/work/串筒灌注记录_最终完美版.xlsx'
+EXCEL_DATABASE = 'excle 数据库'
 
 # 3. 输出位置：填充好的文件会放在脚本所在文件夹的这个新文件夹里
 OUTPUT_FOLDER = './填充结果_新生成/'
