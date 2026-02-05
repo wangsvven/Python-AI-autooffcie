@@ -40,7 +40,7 @@ class Config:
     # -------------------------- 路径配置 --------------------------
     # Excel数据文件路径（绝对路径/相对路径）
     EXCEL_FILE = ''
-    SHEET_NAME = 'Sheet2'  # Excel工作表名称
+    SHEET_NAME = ''  # Excel工作表名称Sheet1、Sheet2
     WORD_TEMPLATE = ''  # 单模板路径
     WORD_TEMPLATE_FOLDER = ''  # 多模板文件夹（优先级高于单模板）
     OUTPUT_FOLDER = './填充结果/'  # 输出文件夹（自动创建）
